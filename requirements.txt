@@ -26,7 +26,6 @@ pytest==6.2.2
 pytest-cov==2.11.1
 regex==2020.11.13
 requests==2.24.0
--e git+git@github.com:rlongio/cicd_presentation.git@21513ceca9725f26680072049117eaddd6ea2813#egg=sampleproject
 six==1.15.0
 toml==0.10.2
 typed-ast==1.4.2
